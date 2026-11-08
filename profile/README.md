@@ -1,8 +1,8 @@
 # Yang–Mills group
 
-**Repository plan and submission policy: draft for group review.** Please send comments to [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com). You do not need a GitHub account to read this page or comment by email.
-
 <img src="/profile/assets/ym-emblem.png" alt="A gold Wilson loop on a square lattice" width="160" height="160">
+
+**Repository plan and submission policy: draft for group review.** Please send comments to [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com). You do not need a GitHub account to read this page or comment by email.
 
 This organization collects gauge-theory submissions and the group's work to understand, verify, and assess them. Submissions may come from OpenAI, other organizations, or individual researchers. It provides a common place for the submitted proofs, independent checks, informal explanations, comparisons between submissions, and assessments of what the results establish.
 

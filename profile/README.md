@@ -18,6 +18,10 @@ We maintain **one archive repository for each submission accepted for inclusion*
 
 We also maintain **one results repository for each major category: YM, QCD, and chiralSU5**. It brings together relevant submissions, independent checks, informal explanations, comparisons, and assessments. Each assessment identifies the exact submission and checks it covers. Formal theorems, informal claims, and the group's conclusions are distinguished clearly.
 
+## Forks and feedback
+
+When released, submission and results repositories will be available for reading, downloading, and forking. Only designated maintainers may change the repositories in this organization. We do not accept public issues, pull requests, or repository comments on these repositories; please email feedback and proposed contributions to [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com). Readers are welcome to develop and discuss changes in their own forks.
+
 ## Making a submission
 
 To propose a submission, email [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com) with a short summary and a link to a fixed revision or dated copy of the materials. For a GitHub repository, include the commit identifier to be considered. Identify the relevant category (YM, QCD, or chiralSU5), the authors, and the results you claim. Include an explanatory document and any formal source code, together with the license or terms under which the group may host the materials.

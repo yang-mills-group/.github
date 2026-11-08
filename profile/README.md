@@ -6,12 +6,6 @@
 
 This organization collects gauge-theory submissions and the group's work to understand, verify, and assess them. Submissions may come from OpenAI, other organizations, or individual researchers. It provides a common place for the submitted proofs, independent checks, informal explanations, comparisons between submissions, and assessments of what the results establish.
 
-## Statements and members
-
-The [statements archive](/statements/README.md) contains the group's October and 3 November 2026 statements and its Rules and Procedures, preserved as published on the KITP website. The [membership record](/MEMBERS.md) lists the published steering committee and explains how participation dates and additional members will be recorded.
-
-For correspondence, including submissions and membership updates, email [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com).
-
 ## Proposed repository structure
 
 We maintain **one archive repository for each submission accepted for inclusion**, preserving the received files, authorship, license notices, and source checksums. The group's additions are kept outside that original submission.
@@ -35,3 +29,9 @@ The group decides which submissions meet this standard and which to include. **T
 Our results categories are **YM** (pure Yang–Mills theory), **QCD**, and **chiralSU5** (chiral SU(5) gauge theory). Each category will bring together the relevant submissions, independent checks, explanations, and assessments.
 
 Links to submission archives, results repositories, and assessments will be added here when those materials are released. The group's published updates are available in the [statements archive](/statements/README.md).
+
+## Statements and members
+
+The [statements archive](/statements/README.md) contains the group's October and 3 November 2026 statements and its Rules and Procedures, preserved as published on the KITP website. The [membership record](/MEMBERS.md) lists the published steering committee and explains how participation dates and additional members will be recorded.
+
+For correspondence, including submissions and membership updates, email [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com).

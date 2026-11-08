@@ -2,21 +2,19 @@
 
 Record updated **8 November 2026**.
 
-This page records the steering committee named in the group's published statements and additional members with confirmed joining dates.
+This page lists the steering committee and other members of the Yang–Mills group.
 
 ## Steering committee
 
-| Member | Role | Listed in statements dated |
+| Member | Role | Dates |
 |---|---|---|
-| Michael R. Douglas | Steering committee member | October 2026; 3 November 2026 |
-| David J. Gross | Chair | October 2026; 3 November 2026 |
-| Arthur Jaffe | Steering committee member | October 2026; 3 November 2026 |
-| Igor R. Klebanov | Steering committee member | October 2026; 3 November 2026 |
-| Nikita Nekrasov | Steering committee member | October 2026; 3 November 2026 |
+| Michael R. Douglas | Steering committee member | Currently serving |
+| David J. Gross | Chair | Currently serving |
+| Arthur Jaffe | Steering committee member | Currently serving |
+| Igor R. Klebanov | Steering committee member | Currently serving |
+| Nikita Nekrasov | Steering committee member | Currently serving |
 
 Sources: the [October statement](statements/2026-10-statement.pdf), [3 November statement](statements/2026-11-03-statement.pdf), and [Rules and Procedures](statements/rules-and-procedures-archived-2026-11-08.pdf), archived from [KITP](https://www.kitp.ucsb.edu/statement-by-the-yangmills-working-group).
-
-The dates in the steering committee table are dates of statements in which the members are named, not joining or leaving dates. Exact participation dates for the steering committee have not yet been recorded here.
 
 ## Additional members
 

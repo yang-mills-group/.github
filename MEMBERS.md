@@ -2,7 +2,7 @@
 
 Record updated **8 November 2026**.
 
-The table below records the steering committee named in the group's published statements. It is a starting point for the membership record; it is not yet a complete list of everyone participating in the group's work.
+This page records the steering committee named in the group's published statements and additional members with confirmed joining dates.
 
 ## Steering committee
 
@@ -16,10 +16,17 @@ The table below records the steering committee named in the group's published st
 
 Sources: the [October statement](statements/2026-10-statement.pdf), [3 November statement](statements/2026-11-03-statement.pdf), and [Rules and Procedures](statements/rules-and-procedures-archived-2026-11-08.pdf), archived from [KITP](https://www.kitp.ucsb.edu/statement-by-the-yangmills-working-group).
 
-These are dates of statements in which the members are named, not joining or leaving dates. Exact participation dates have not yet been recorded here.
+The dates in the steering committee table are dates of statements in which the members are named, not joining or leaving dates. Exact participation dates for the steering committee have not yet been recorded here.
 
-## Additional members and updates
+## Additional members
 
-Additional members can be listed with their role or area of work and confirmed dates of participation. We will retain former members' entries with their participation dates as the record develops. Membership and contributions to a particular assessment are separate: each assessment should identify its own contributors.
+| Member | Joined |
+|---|---|
+| Fred Rajasekaran | 2 November 2026 |
+| Ron Nissim | 2 November 2026 |
+
+## Updates
+
+Members can be listed with their role or area of work and confirmed dates of participation. We will retain former members' entries with their participation dates as the record develops. Membership and contributions to a particular assessment are separate: each assessment should identify its own contributors.
 
 Please send additions or corrections to [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com), including the name, role, and any confirmed joining or leaving dates. GitHub repository access alone is not used to establish scientific membership.

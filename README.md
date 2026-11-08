@@ -30,6 +30,6 @@ The group decides which submissions meet this standard and which to include. **T
 
 ## Statements and members
 
-The [statements archive](/statements/README.md) contains the group's October and 3 November 2026 statements and its Rules and Procedures, preserved as published on the KITP website. The [membership record](/MEMBERS.md) lists the published steering committee and explains how participation dates and additional members will be recorded.
+The [statements archive](/statements/README.md) contains the group's October and 3 November 2026 statements and its Rules and Procedures, preserved as published on the KITP website. The [membership record](/MEMBERS.md) lists the steering committee and other members, with confirmed joining dates where available.
 
 For correspondence, including submissions and membership updates, email [yangmills4d@gmail.com](mailto:yangmills4d@gmail.com).

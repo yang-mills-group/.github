@@ -1,0 +1,43 @@
+{
+  "source_page": "https://www.kitp.ucsb.edu/statement-by-the-yangmills-working-group",
+  "archive_date": "2026-11-08",
+  "note": "PDFs are unchanged downloads. Document dates, retrieval dates, and HTTP Last-Modified timestamps have distinct meanings; HTTP timestamps are not asserted publication dates.",
+  "documents": [
+    {
+      "file": "2026-10-statement.pdf",
+      "source_url": "https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf",
+      "final_url": "https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf",
+      "retrieved_at_utc": "2026-11-08T19:18:03.673551+00:00",
+      "sha256": "dbab31f0f954ac8265a3fc1c1a29664c7fa0b7f16c616d58012e65896557bd12",
+      "bytes": 89273,
+      "http_last_modified": "Wed, 28 Oct 2026 00:02:25 GMT",
+      "title": "First statement",
+      "date_printed_in_document": "2026-10",
+      "date_precision": "month"
+    },
+    {
+      "file": "2026-11-03-statement.pdf",
+      "source_url": "https://www.kitp.ucsb.edu/sites/default/files/2nd-Statement-About-Quantum-YangMills-Theory_Nov-3.pdf",
+      "final_url": "https://www.kitp.ucsb.edu/sites/default/files/2nd-Statement-About-Quantum-YangMills-Theory_Nov-3.pdf",
+      "retrieved_at_utc": "2026-11-08T19:18:03.954733+00:00",
+      "sha256": "fcd8a6deddd316f131b5815d06aea578c727adc14a36a8baaff2456dddea2a5c",
+      "bytes": 39244,
+      "http_last_modified": "Thu, 05 Nov 2026 01:59:26 GMT",
+      "title": "Second statement",
+      "date_printed_in_document": "2026-11-03",
+      "date_precision": "day"
+    },
+    {
+      "file": "rules-and-procedures-archived-2026-11-08.pdf",
+      "source_url": "https://www.kitp.ucsb.edu/sites/default/files/RULES%20AND%20PROCEDURES%20OF%20THE%20YANG%20MILLS%20GROUP.pdf",
+      "final_url": "https://www.kitp.ucsb.edu/sites/default/files/RULES%20AND%20PROCEDURES%20OF%20THE%20YANG%20MILLS%20GROUP.pdf",
+      "retrieved_at_utc": "2026-11-08T19:18:04.195067+00:00",
+      "sha256": "2f8005495337df60c0eb6fbec972ed91828feb42fa8b90a38d5aef6e248055cd",
+      "bytes": 30652,
+      "http_last_modified": "Wed, 04 Nov 2026 20:41:47 GMT",
+      "title": "Rules and Procedures of the Yang Mills Group",
+      "date_printed_in_document": null,
+      "date_precision": "undated"
+    }
+  ]
+}

@@ -28,6 +28,8 @@ Submissions must meet a minimum standard of relevance, clarity, and mathematical
 
 The group decides which submissions meet this standard and which to include. **The group does not promise to post or review submissions, or to reply to submitters, even when these requirements are met.** Posting a submission does not constitute endorsement or certification of its claims.
 
+Our normal arrangement is that submitters retain ownership of their work and remain free to post or publish it elsewhere, independently of our review. Submitters must specify a permissive license allowing us to copy and host their materials. We will consider other arrangements for custody and release on request, such as the one described in OpenAI’s [October 26 announcement](https://openai.com/index/building-scientific-understanding-with-academic-communities/).
+
 ## Statements and members
 
 The [statements archive](/statements/README.md) contains the group's October and 3 November 2026 statements and its Rules and Procedures, preserved as published on the KITP website. The [membership record](/MEMBERS.md) lists the steering committee and other members, with confirmed joining dates where available.
